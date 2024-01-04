@@ -1,0 +1,9 @@
+HELLO WORLD!
+*Pierwsze oficjalne wydanie JOMT z funkcjonalnym Launherem!*
+- 2 mapy
+- multiplayer przez UPnP
+- system staminy
+- Ogromna liczba bugów...
+
+04.01.2024
+Trzymajcie się ciepło!
