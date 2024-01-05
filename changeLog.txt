@@ -4,7 +4,6 @@ HELLO WORLD!
 - multiplayer przez UPnP
 - system staminy
 - Ogromna liczba bugów...
-- Maxwell
+- Maxwell :)
 
-04.01.2024
 Trzymajcie się ciepło!
