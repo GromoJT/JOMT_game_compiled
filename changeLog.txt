@@ -1,9 +1,5 @@
-HELLO WORLD!
-*Pierwsze oficjalne wydanie JOMT z funkcjonalnym Launcherem!*
-- 2 mapy
-- multiplayer przez UPnP
-- system staminy
-- Ogromna liczba bugów...
+- Poprawa silnika fizycznego 
+- Naprawa kilku bugów... z miliona
 - Maxwell :)
 
 Trzymajcie się ciepło!
