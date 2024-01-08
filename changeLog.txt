@@ -1,5 +1,4 @@
-- Poprawa silnika fizycznego 
-- Naprawa kilku bugów... z miliona
-- Maxwell :)
+- dodano broń i system zmiany uzbroienia
+- dodano taśę z melodią
 
-Trzymajcie się ciepło!
+Powoli ale do przodu!
