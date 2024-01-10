@@ -1,4 +1,5 @@
 - dodano broń i system zmiany uzbroienia
 - dodano taśę z melodią
+- Nowy LEPSZY sytem podnoszenia, obracania, upuszczania i rzucania przedmiotów!
 
 Powoli ale do przodu!
